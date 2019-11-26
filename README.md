@@ -17,5 +17,7 @@
 
 ### 工具说明
 1.由于python具有强大的库支持，可以省去不少代码量,最终决定用python语言作为本项任务的主语言
+
 2.本项编程的环境为JetBrains PyCharm Community Edition 2019.1.2 x64
+
 3.本次任务主要使用的python库有科学计算包numpy,pandas和可视化库matplotlib,pygal(由于matplotlib不支持中文，所以主要使用了pygal)和机器学习库scikit-learn
